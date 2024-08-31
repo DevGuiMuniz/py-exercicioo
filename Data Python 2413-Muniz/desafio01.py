@@ -18,3 +18,10 @@ num_01 = int(input("Digite o primeiro número:"))
 num_02 = int(input("Digite o segundo número:"))
 
 print(num_01 + num_02)
+
+#atv04
+#Descobrir o tipo primitivo de dado imputado
+
+n1=(input("Entre com o valor"))
+print(type(n1))
+print(n1.isnumeric())
